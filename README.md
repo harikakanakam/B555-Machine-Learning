@@ -4,6 +4,7 @@ There are 4 programming assignmnets which are focusing on the below items.
 
 Programming Project 1: Unigram Model.
 
+
 Programming assignment 2: Experiments with Bayesian Linear Regression.
 
 Programming Assignment 3: Experiments with Classification Algorithms - Generative vs. Discriminative and Newton’s method vs. gradient ascent.
